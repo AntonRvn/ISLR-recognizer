@@ -15,7 +15,7 @@
 | Ресурс | Ссылка |
 |--------|--------|
 | **Датасет Slovo** | [GitHub Slovo](https://github.com/hukenovs/slovo) |
-| **Веса модели** | [Скачать best_model.pt]([https://drive.google.com/your-link-here](https://drive.google.com/uc?export=download&id=1rc1pexeKRCYHHZmLQttR-lsGvap8gsJI)) |
+| **Веса модели** | [Скачать best_model.pt](https://drive.google.com/uc?export=download&id=1rc1pexeKRCYHHZmLQttR-lsGvap8gsJI) |
 
 ### Цитирование датасета
 
