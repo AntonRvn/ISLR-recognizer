@@ -1,0 +1,14 @@
+# Данные и модели (GitHub не для больших файлов!)
+data/
+models/
+*.pt
+*.pth
+*.h5
+
+# Файлы Python и Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Переменные окружения
+.env
